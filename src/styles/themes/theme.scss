@@ -1,0 +1,22 @@
+/********************GLOBAL*************************/
+
+@import '../variables';
+@import '../normalize.css';
+@import '../fonts';
+@import '../mixins';
+@import '../global';
+
+/********************COMPONENTS*************************/
+
+@import '../themes/components/navbar';
+
+/********************TEMPLATES*************************/
+
+@import '../themes/templates/projectDetails';
+
+/********************PAGES*************************/
+
+@import '../themes/pages/home';
+@import '../themes/pages/projects';
+
+
